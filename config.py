@@ -21,7 +21,7 @@ SESSION = getenv("SESSION", None)
 SUPPORT_CHAT = getenv("SUPPORT_CHAT", "https://t.me/HaoTogelLivedraw")
 SUPPORT_CHANNEL = getenv("SUPPORT_CHANNEL", "https://t.me/haotogel_result")
 
-SUDO_USERS = list(map(int, getenv("SUDO_USERS", "1318130048").split()))
+SUDO_USERS = list(map(int, getenv("SUDO_USERS", "1811466028").split()))
 
 
-FAILED = "https://te.legra.ph/file/4c896584b592593c00aa8.jpg"
+FAILED = "https://te.legra.ph/file/b016996b7a657e4734828.jpg"
